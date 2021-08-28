@@ -1,12 +1,13 @@
-![image](https://github.com/sumitsaurav143/sumitsaurav143/blob/main/Banner.jpeg)
+![image](https://github.com/sumitsaurav143/sumitsaurav143/blob/main/Banner.jpg)
 
 
 ### Hi there 👋
 
-## I am Adarsh D
+## I am Sumit Saurav
 <h3 align="start">A self-taught programmer</h3>
 
-I develop applications majorly from Scratch, and moving toward ReactJs. I have a passion for learning and sharing my knowledge with others as public as possible. You can see a full list of what I am up to. If you found value in something I have created and want to give any suggestions, then please feel free to ping me. I would love to hear from you.
+I develop applications majorly from Scratch, and moving toward ReactJs. I have a passion for learning and sharing my knowledge with others as public as possible. You can see a full list of what I am up to. If you found value in something I have created and want to give any suggestions, then please feel free to ping me.
+I would love to hear from you.
 
 - 🔭 I’m currently working on Frontend Development soon to be a Fullstack Developer.
 - 🌱 I’m currently learning ReactJs.
