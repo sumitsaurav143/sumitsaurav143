@@ -6,12 +6,11 @@
 ## I am Sumit Saurav
 <h3 align="start">A self-taught programmer</h3>
 
-I develop applications majorly from Scratch, and moving toward ReactJs. I have a passion for learning and sharing my knowledge with others as public as possible. You can see a full list of what I am up to. If you found value in something I have created and want to give any suggestions, then please feel free to ping me.
-I would love to hear from you.
+I develop applications majorly from scratch and have over 3 years of experience as a Full Stack Developer in the industry. I have a passion for learning and sharing my knowledge as publicly as possible. If you find value in something I have created or have any suggestions, please feel free to reach out. I would love to hear from you.
 
-- 🔭 I’m currently working on Frontend Development soon to be a Fullstack Developer.
-- 🌱 I’m currently learning ReactJs.
-- 💬 Ask me about anything
+🔭 I’m currently working as a Full Stack Developer.
+🌱 I’m currently enhancing my skills in Angular & ReactJS.
+💬 Ask me about anything related to development.
 
 
 ![GitHub followers](https://img.shields.io/github/followers/sumitsaurav143?logo=GitHub&style=for-the-badge)
