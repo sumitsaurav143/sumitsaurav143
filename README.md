@@ -8,9 +8,9 @@
 
 I develop applications majorly from scratch and have over 3 years of experience as a Full Stack Developer in the industry. I have a passion for learning and sharing my knowledge as publicly as possible. If you find value in something I have created or have any suggestions, please feel free to reach out. I would love to hear from you.
 
--🔭 I’m currently working as a Full Stack Developer.
--🌱 I’m currently enhancing my skills in Angular & ReactJS.
--💬 Ask me about anything related to development.
+🔭 I’m currently working as a Full Stack Developer.
+🌱 I’m currently enhancing my skills in Angular & ReactJS.
+💬 Ask me about anything related to development.
 
 
 ![GitHub followers](https://img.shields.io/github/followers/sumitsaurav143?logo=GitHub&style=for-the-badge)
