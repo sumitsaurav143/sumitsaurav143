@@ -6,11 +6,11 @@
 ## I am Sumit Saurav
 <h3 align="start">A self-taught programmer</h3>
 
-I develop applications majorly from scratch and have over 3 years of experience as a Full Stack Developer in the industry. I have a passion for learning and sharing my knowledge as publicly as possible. If you find value in something I have created or have any suggestions, please feel free to reach out. I would love to hear from you.
+I develop applications majorly from scratch and have over 4+ years of experience as a Full Stack Developer in the industry. I have a passion for learning and sharing my knowledge as publicly as possible. If you find value in something I have created or have any suggestions, please feel free to reach out. I would love to hear from you.
 
 🔭 I’m currently working as a Full Stack Developer
 
-🌱 I’m currently enhancing my skills in Angular & ReactJS
+🌱 I’m currently enhancing my skills in Java, Springboot, Microservices & ReactJS
 
 💬 Ask me about anything related to development
 
