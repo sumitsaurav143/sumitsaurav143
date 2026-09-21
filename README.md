@@ -191,6 +191,31 @@ AI Integration
 - 🌐 **Distributed Systems**
 
 ---
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sumit-saurav-ba569b179/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Sumit_saurav/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://github.com/sumitsaurav143" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  💼 <b>Professional Profile</b> &nbsp; • &nbsp;
+  🧩 <b>Problem Solving</b> &nbsp; • &nbsp;
+  💻 <b>Projects & Engineering</b>
+</p>
+
+---
 
 # 🚀 What You'll Find on My GitHub
 
