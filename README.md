@@ -1,186 +1,163 @@
-👋 Hi, I’m Sumit Saurav
+# 👋 Hi, I'm Sumit Saurav
 
-Full Stack Software Engineer | Java | Spring Boot | Microservices | AI Engineering
+### 🚀 Full Stack Software Engineer | Java | Spring Boot | Microservices | AI
 
-I’m a Software Engineer with 5 years of professional experience building enterprise applications, backend services, full-stack solutions, automation workflows, and AI-powered applications.
+**5+ Years of Professional Software Development Experience**
 
-My core expertise spans Java, Spring Boot, REST APIs, Microservices, SQL/Oracle, Angular, React, CI/CD, Docker, monitoring, automation, and modern AI engineering.
+I’m a **Full Stack Software Engineer** with 5+ years of experience building enterprise applications, backend services, REST APIs, microservices, modern web applications, automation workflows, and AI-powered solutions.
 
-I enjoy solving real-world engineering problems by combining backend development, frontend engineering, automation, DevOps, and AI to build scalable and production-ready solutions.
+I work across the complete development lifecycle — **design, development, database engineering, frontend, CI/CD, deployment, monitoring, automation, and AI integration.**
 
-⸻
+---
 
-💼 Professional Experience
+## 👨‍💻 About Me
 
-With 5 years of industry experience, I have worked across the full software development lifecycle — from designing APIs and database solutions to frontend development, deployment, monitoring, automation, and production support.
+- 💼 **5+ years** of professional software development experience
+- ☕ Strong experience with **Java & Spring Boot**
+- 🏗️ Building **REST APIs & Microservices**
+- 🗄️ Experienced with **SQL, Oracle & PL/SQL**
+- 🎨 Full Stack development using **Angular & React**
+- 🚀 Experience with **CI/CD, Docker & Kubernetes**
+- 📊 Application monitoring using **Kibana, Grafana & Prometheus**
+- ⚙️ Building **automation workflows using n8n**
+- 🤖 Exploring and building **AI, MCP & RAG pipelines**
+- 🔄 Experience with **large-scale data processing, automation & migration**
+- 🧩 Interested in **System Design, Distributed Systems & AI Engineering**
 
-🔹 Backend & Full Stack
+---
 
-* Java
-* Spring Boot
-* REST APIs
-* Microservices
-* SQL / Oracle / PL/SQL
-* Angular
-* React
-* TypeScript
-* JavaScript
+# 🛠️ Tech Stack
 
-🔹 DevOps & Observability
+## ☕ Backend Development
 
-* CI/CD
-* Git / GitLab
-* Docker
-* Kubernetes
-* Kibana
-* Grafana
-* Prometheus
-* Application monitoring & troubleshooting
+**Languages & Frameworks**
 
-🔹 Automation & AI Engineering
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
-* Workflow automation
-* n8n
-* AI integrations
-* MCP (Model Context Protocol)
-* RAG (Retrieval-Augmented Generation)
-* AI pipelines
-* Prompt engineering
-* AI-powered application development
+**API & Architecture**
 
-⸻
+`REST APIs` · `Microservices` · `API Integration` · `Event-Driven Architecture` · `Backend Architecture`
 
-🛠️ Tech Stack
+---
 
-💻 Programming Languages
+## 🎨 Frontend Development
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-☕ Backend & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge" />
-</p>
+---
 
-🎨 Frontend
+## 🗄️ Database & Data Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-</p>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-🗄️ Databases & Data
+**Database Technologies**
 
-<p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+`SQL` · `PL/SQL` · `Stored Procedures` · `Query Optimization` · `Data Migration` · `Batch Processing` · `Database Automation`
 
-📨 Messaging & Distributed Systems
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Event%20Driven%20Architecture-FF6F00?style=for-the-badge" />
-</p>
+## 📨 Messaging & Distributed Systems
 
-🐳 DevOps & CI/CD
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
+`Kafka` · `Redis` · `Event-Driven Architecture` · `Distributed Systems` · `Asynchronous Processing`
 
-📊 Monitoring & Observability
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-</p>
+## 🚀 DevOps & CI/CD
 
-🤖 AI & Generative AI
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p>
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-5E35B1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-1565C0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-00897B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-7B1FA2?style=for-the-badge" />
-</p>
+**CI/CD · Containerization · Deployment Automation · Git · Linux**
 
-⚙️ Automation & Workflow
+---
 
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workflow%20Automation-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Automation-1976D2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Process%20Automation-00897B?style=for-the-badge" />
-</p>
+## 📊 Monitoring & Observability
 
-🧪 Testing & Development Tools
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-</p>
+`Application Monitoring` · `Log Analysis` · `Metrics` · `Dashboards` · `Production Troubleshooting`
 
-🧰 Tools & Platforms
+---
 
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+## 🤖 AI & Generative AI
 
-⸻
+**AI Engineering**
 
-🏗️ What I Build
+`Generative AI` · `LLM Applications` · `AI Agents` · `Prompt Engineering`
 
-I enjoy working across the complete engineering lifecycle:
+**MCP**
 
+`Model Context Protocol (MCP)` · `MCP Servers` · `AI Tool Integration`
+
+**RAG**
+
+`Retrieval-Augmented Generation` · `Document Processing` · `Knowledge Retrieval` · `RAG Pipelines`
+
+---
+
+## ⚙️ Automation & Workflow Engineering
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+`n8n` · `Workflow Automation` · `API Automation` · `Process Automation` · `Scheduled Jobs` · `AI Workflows`
+
+I enjoy identifying repetitive engineering tasks and turning them into **reliable automated workflows**.
+
+---
+
+## 🧪 Development & API Tools
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+`Maven` · `JUnit` · `Postman` · `Swagger / OpenAPI` · `API Testing`
+
+---
+
+# 🏗️ What I Work On
+
+I enjoy working across the complete software engineering lifecycle:
+
+```text
 Requirements
      ↓
 Architecture & Design
      ↓
-Backend / REST APIs
+Backend Development
      ↓
-Microservices
+REST APIs / Microservices
      ↓
-Database & Data Processing
+Database Engineering
      ↓
-Frontend
+Frontend Development
      ↓
 Testing
      ↓
@@ -192,134 +169,76 @@ Monitoring & Observability
      ↓
 Automation
      ↓
-AI-powered Enhancements
+AI Integration
+```
 
-⸻
+---
 
-🔥 Areas of Expertise
+# 🔥 Areas of Interest
 
-Backend Engineering
+- ☕ **Java & Spring Boot**
+- 🏗️ **Microservices Architecture**
+- 🌐 **REST API Design**
+- 🗄️ **Database Engineering**
+- ⚛️ **React & Angular**
+- 🚀 **DevOps & CI/CD**
+- 📊 **Observability**
+- ⚙️ **Automation & n8n**
+- 🤖 **AI Engineering**
+- 🔌 **MCP**
+- 📚 **RAG Pipelines**
+- 🧠 **System Design**
+- 🌐 **Distributed Systems**
 
-* Java & Spring Boot
-* REST API development
-* Microservices
-* API integration
-* Exception handling & validation
-* Performance optimization
-* Database-driven applications
+---
 
-Database Engineering
+# 🚀 What You'll Find on My GitHub
 
-* Oracle
-* SQL
-* PL/SQL
-* Stored procedures
-* Query optimization
-* Batch processing
-* Data migration
-* Large-scale data processing
+My repositories cover experiments, learning projects, and practical implementations around:
 
-Full Stack Development
+**Java • Spring Boot • Microservices • REST APIs • Angular • React • SQL • Oracle • Docker • Kubernetes • CI/CD • Monitoring • Automation • n8n • AI • MCP • RAG**
 
-* Angular
-* React
-* TypeScript
-* JavaScript
-* Responsive web applications
-* Backend/frontend integration
+I'm continuously building and improving projects to explore modern software engineering practices.
 
-DevOps & Production Engineering
+---
 
-* CI/CD pipelines
-* Docker
-* Kubernetes
-* Application monitoring
-* Kibana
-* Grafana
-* Prometheus
-* Production troubleshooting
+# 📚 Currently Exploring
 
-Automation & AI
-
-* n8n workflow automation
-* AI-powered workflows
-* MCP integrations
-* RAG pipelines
-* AI agents
-* LLM integrations
-* Prompt engineering
-
-⸻
-
-🧠 Currently Exploring
-
-I’m continuously expanding my knowledge in:
-
+```text
 System Design
 Distributed Systems
 Advanced Microservices
 Event-Driven Architecture
-Kafka
-Redis
 Cloud Architecture
 AI Agents
 MCP
 RAG
 LLM Applications
 AI Automation
+```
 
-⸻
+---
 
-🚀 Projects
+# 📊 GitHub Stats
 
-I use GitHub to build and experiment with practical engineering projects across:
+<p align="center">
 
-* ☕ Java & Spring Boot
-* 🏗️ Microservices
-* 🌐 REST APIs
-* ⚛️ React & TypeScript
-* 🅰️ Angular
-* 🗄️ SQL / Oracle
-* 🐳 Docker & Kubernetes
-* 🔄 CI/CD
-* 📊 Monitoring & Observability
-* 🤖 AI / MCP / RAG
-* ⚙️ Automation & n8n
+<img src="https://github-readme-stats.vercel.app/api?username=sumitsaurav143&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-Explore my repositories below to see what I’m building.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurav143&theme=transparent&hide_border=true" />
 
-⸻
+</p>
 
-📈 Engineering Mindset
+---
 
-I believe good software engineering is not just about writing code.
+# 🤝 Let's Connect
 
-It’s about:
+I'm always interested in discussing:
 
-Design → Build → Test → Deploy → Monitor → Automate → Improve
+**Software Engineering • Java • Spring Boot • Microservices • Full Stack Development • DevOps • Automation • AI Engineering • MCP • RAG**
 
-My goal is to build systems that are scalable, maintainable, observable, and useful in the real world.
+---
 
-⸻
+### 💡 Engineering Philosophy
 
-🤝 Let’s Connect
-
-I’m always interested in discussing:
-
-* Software Architecture
-* Java & Spring Boot
-* Microservices
-* Full Stack Development
-* DevOps
-* Automation
-* AI Engineering
-* MCP & RAG
-* Interesting engineering problems
-
-⸻
-
-⚡ Fun Fact
-
-I like turning repetitive engineering tasks into automated workflows — and increasingly, into AI-powered workflows.
-
-Build it. Automate it. Make it smarter.
+> **Build it. Understand it. Automate it. Make it smarter.**
